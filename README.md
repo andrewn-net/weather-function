@@ -1,3 +1,8 @@
+## Tomorrow.io API key
+
+Sign up to https://www.tomorrow.io/ and obtain a Weather API key.
+
+
 ### Clone the Template
 
 Start by cloning this repository:
