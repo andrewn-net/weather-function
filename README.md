@@ -8,7 +8,7 @@ This app provides a single function (no workflow) that returns weather informati
 
 ### Tomorrow.io API key
 
-Sign up to https://www.tomorrow.io/ and obtain a Weather API key.
+Sign up to https://www.tomorrow.io/ and obtain a Weather API key. Update .env with your key.
 
 
 ### Clone the Template
