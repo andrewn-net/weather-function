@@ -1,4 +1,6 @@
-## Tomorrow.io API key
+## Setup
+
+### Tomorrow.io API key
 
 Sign up to https://www.tomorrow.io/ and obtain a Weather API key.
 
