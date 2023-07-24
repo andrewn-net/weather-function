@@ -17,7 +17,7 @@ Start by cloning this repository:
 
 ```zsh
 # Clone this project onto your machine
-$ slack create my-app -t andrewn-net/weather-function
+$ slack create weather-function -t andrewn-net/weather-function
 
 # Change into the project directory
 $ cd weather-function
