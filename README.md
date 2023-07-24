@@ -1,3 +1,9 @@
+## Weather Function
+
+This app provides a single function (no workflow) that returns weather information using the tomorrow.io API. The function can be used as a step in Slack's next generation platorm Workflow Builder.
+
+<img width="1000" alt="image" src="https://github.com/andrewn-net/weather-function/assets/27248499/f7c22301-f7ed-400c-a1a8-a1d587e5f1c1">
+
 ## Setup
 
 ### Tomorrow.io API key
