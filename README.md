@@ -47,11 +47,6 @@ Once development is complete, deploy the app to Slack infrastructure using
 $ slack deploy
 ```
 
-When deploying for the first time, you'll be prompted to
-[create a new link trigger](#creating-triggers) for the deployed version of your
-app. When that trigger is invoked, the workflow should run just as it did when
-developing locally (but without requiring your server to be running).
-
 ## Viewing Activity Logs
 
 Activity logs of your application can be viewed live and as they occur with the
